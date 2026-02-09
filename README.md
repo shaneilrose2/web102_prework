@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='https://drive.google.com/file/d/1wmwPzcHHW8ncMQOTSGZC4XRI-tXOZ5A7/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' /video>
+<video> src="https://1drv.ms/i/c/e67a689788273250/IQCEde36JhspRYlnFROgT4A5AaF-1AuruOqDLSpDJYLnH_w?e=LWHKGT" </video>
 
 
 GIF created with ...  
