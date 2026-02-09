@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<video> src="https://1drv.ms/i/c/e67a689788273250/IQCEde36JhspRYlnFROgT4A5AaF-1AuruOqDLSpDJYLnH_w?e=LWHKGT" </video>
+"https://1drv.ms/i/c/e67a689788273250/IQCEde36JhspRYlnFROgT4A5AaF-1AuruOqDLSpDJYLnH_w?e=LWHKGT"
 
 
 GIF created with ...  
